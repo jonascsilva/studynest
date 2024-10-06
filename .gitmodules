@@ -1,0 +1,9 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/jonascsilva/portfolio
+[submodule "backend"]
+	path = backend
+	url = https://github.com/jonascsilva/studynest-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/jonascsilva/studynest-frontend
