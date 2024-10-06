@@ -1,9 +1,12 @@
 [submodule "docs"]
 	path = docs
+	branch = dev
 	url = https://github.com/jonascsilva/portfolio
 [submodule "backend"]
 	path = backend
+	branch = dev
 	url = https://github.com/jonascsilva/studynest-backend
 [submodule "frontend"]
 	path = frontend
+	branch = dev
 	url = https://github.com/jonascsilva/studynest-frontend
